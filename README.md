@@ -1,5 +1,6 @@
 #   Gestion des processus
-
+Simona Enasoae
+Marcel Fernandez de la Pena
 Ce dépôt correspond aux TPs de PDS « [Gestion des processus](http://www.fil.univ-lille1.fr/~hym/e/pds/tp/tdps.html) ».
 
 
